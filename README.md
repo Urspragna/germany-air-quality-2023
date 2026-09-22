@@ -1,6 +1,6 @@
 # Germany Air Quality Analysis 2023
 
-**M.Sc. Big Data · Universität Rostock**
+**M.Sc. Big Data**
 
 Distributed analysis of PM10 and PM2.5 particulate matter across Germany in 2023, using Apache Spark on a 4-node HDFS cluster. Covers the full pipeline from raw sensor ingestion to interactive dashboards and a 30-day forecast.
 
